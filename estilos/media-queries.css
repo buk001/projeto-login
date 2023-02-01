@@ -43,5 +43,12 @@
         float: left;
         width: 50%;
     }
-    
+
+    section#login h1{
+        font-size: 1.8em;
+    }
+
+    section#login p{
+        font-size: 1.1em;
+    }
 }
