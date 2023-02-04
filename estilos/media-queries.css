@@ -8,6 +8,7 @@
 
     section#login{
         width: 80%;
+        height: 300px;
     }
 
     section#login div#imagem{
@@ -31,6 +32,7 @@
 
     section#login{
         width: 950px;
+        height: 310px;
     }
 
     section#login div#imagem{
@@ -49,6 +51,11 @@
     }
 
     section#login p{
-        font-size: 1.1em;
+        font-size: 1em;
+        margin: 10px 0px;
     }
+
+    
+
+
 }
